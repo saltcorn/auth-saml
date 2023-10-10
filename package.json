@@ -1,0 +1,12 @@
+{
+  "name": "@saltcorn/saml-auth",
+  "version": "0.1.0",
+  "description": "Authentication with any SAML identity provider",
+  "main": "index.js",
+  "dependencies": {
+    "@saltcorn/data": "^0.3.0",
+    "passport-saml": "^2.0.1"
+  },
+  "author": "Christian Hugo",
+  "license": "MIT"
+}
